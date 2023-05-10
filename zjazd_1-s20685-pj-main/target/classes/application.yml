@@ -1,0 +1,16 @@
+my:
+  own:
+    value: Hello from application properties
+default:
+  value: Some default Value
+spring:
+  main:
+    banner-mode: off
+logging:
+  level:
+    root: off
+custom:
+  login-url: test-login
+  credentials:
+    user: test-user
+    password: pass
